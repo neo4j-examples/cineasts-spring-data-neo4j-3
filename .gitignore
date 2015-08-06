@@ -1,0 +1,13 @@
+.idea
+.DS_Store
+*.ipr
+*.iws
+*.iml
+*.zip
+data
+target
+*.log
+tmp
+.classpath
+.project
+.settings
